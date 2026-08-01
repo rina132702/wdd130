@@ -75,7 +75,7 @@ header nav li {
 header nav a {
     display: block;
     padding: 12px;
-    color: var(--light-color);
+    color: var(--accent1-color);
     font-weight: bold;
     text-decoration: none;
     background-color: var(--secondary-color);
